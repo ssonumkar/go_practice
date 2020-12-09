@@ -1,6 +1,0 @@
-package fileio
-
-import(
-	"fmt"
-	""
-)
