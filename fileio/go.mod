@@ -1,3 +1,3 @@
-module practice.com/sagar/go_practice/fileio
+module github.com/ssonumkar/go_practice.git/fileio
 
 go 1.14

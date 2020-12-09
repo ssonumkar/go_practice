@@ -1,3 +1,3 @@
-module practice.com/sagar/go_practice
+module github.com/ssonumkar/go_practice
 
 go 1.14

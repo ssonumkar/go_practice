@@ -1,3 +1,3 @@
-module practice.com/sagar/go_practice/data_structures
+module github.com/ssonumkar/go_practice.git/data_structures
 
 go 1.14
